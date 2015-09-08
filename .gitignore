@@ -2,6 +2,7 @@
 
 # compiled output
 /dist
+/presentation
 /tmp
 /src/**/*.js
 
